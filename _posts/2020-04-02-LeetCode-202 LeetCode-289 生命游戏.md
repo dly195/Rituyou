@@ -8,7 +8,7 @@ tags: [算法,LeetCode]
 ---
 
 [LeetCode-289](https://leetcode-cn.com/problems/game-of-life/)  
-![](https://tva1.sinaimg.cn/large/00831rSTly1gdfhcldh1dj30km0kudif.jpg)
+![LeetCode289](./../img/LeetCode289.jpg)
 
 
 这道题的难点应该是在于准确理解题意，然后就简单多了。
@@ -159,7 +159,7 @@ board[m+1][n-1]  board[m+1][n]  board[m+1][n+1]
 ```
 
 
-![](https://tva1.sinaimg.cn/large/00831rSTly1gdfjkxp9qij30tg060mxz.jpg)
+![LeetCode289_result](./../img/LeetCode289_result.jpg)
 
 可能做这道题的人还比较少。。
 
