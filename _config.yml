@@ -8,7 +8,7 @@
 # Site settings
 title: Ritsuyou
 brief-intro: Keep go going
-baseurl: "/Ritsuyou" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dly195.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
