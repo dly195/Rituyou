@@ -4,7 +4,7 @@ title:  "将自己的framework上传至CocoaPods"
 date:   2020-03-24 20:30:00
 categories: coding
 tags: [cocoapods, iOS]
-
+excerpt: 记录下来，免得每次去找
 ---
 
 #### CocoaPods: The Cocoa dependency manager
