@@ -3,7 +3,7 @@ layout: post
 title:  "将自己的framework上传至CocoaPods"
 date:   2020-03-24 20:30:00
 categories: coding
-tags: [cocoapods, ios]
+tags: [cocoapods, iOS]
 
 ---
 
