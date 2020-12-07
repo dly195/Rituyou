@@ -4,10 +4,10 @@
         "details": [
             {
                 "appID": "WKM99D93QR.com.dly195.UniversalLinksDemo",
-                "paths": [ "/category" ]
+                "paths": [ "/category/*" ]
             },{
                 "appID": "WKM99D93QR.com.dly195.UniversalLinksDemo02",
-                "paths": [ "/archive" ]
+                "paths": [ "/archive/*" ]
             }
         ]
     }
