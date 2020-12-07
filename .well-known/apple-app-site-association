@@ -1,11 +1,10 @@
-
 {
     "applinks": {
         "apps": [],
         "details": [
             {
                 "appID": "WKM99D93QR.com.dly195.UniversalLinksDemo",
-                "paths": [ "*"]
+                "paths": [ "*" ]
             }
         ]
     }
