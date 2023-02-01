@@ -1,14 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
+  "applinks": {
+       "apps": [],
         "details": [
-            {
-                "appID": "WKM99D93QR.com.dly195.UniversalLinksDemo",
-                "paths": [ "/category/*" ]
-            },{
-                "appID": "WKM99D93QR.com.dly195.UniversalLinksDemo02",
-                "paths": [ "/archive/*" ]
-            }
-        ]
+           {
+               "appID":"EWA7ZGFQVL.com.agilet.cordova",
+               "paths":[ "/category/*" ]
+           }
+         ]
     }
 }
