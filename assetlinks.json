@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.cordova",
-               "sha256_cert_fingerprints": ["1E:A1:A0:CC:6D:60:AF:E5:5C:DA:DD:AB:CB:44:0E:60:6A:EA:8A:C5:D3:9B:18:68:41:B6:5F:8D:C1:13:70:F2"] }
-}]
