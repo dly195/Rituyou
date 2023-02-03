@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.cordova",
+    "sha256_cert_fingerprints":
+    ["4B:9F:6F:03:82:32:59:CC:C7:96:6D:0F:24:E3:C2:C4:D3:5E:CF:37:E2:BA:6D:AB:4B:C7:FB:19:88:1C:35:54"]
+  }
+}]
