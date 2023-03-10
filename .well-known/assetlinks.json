@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.cordova",
+    "package_name": "jp.co.sej.test1",
     "sha256_cert_fingerprints":
     ["A3:C5:FA:58:98:21:24:65:46:72:B6:84:AE:8D:CC:7D:21:D2:71:A6:82:64:DA:55:7C:94:F1:E0:58:E3:5F:CE"]
   }
