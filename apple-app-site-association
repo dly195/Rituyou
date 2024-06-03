@@ -4,7 +4,7 @@
         "details": [
            {
                "appID":"HJ2YH376CG.jp.co.sej.ssc.sscLibrariesTest",
-               "paths":[ "/emengagement/*" ]
+               "paths":[ "/category/*" ]
            }
          ]
     }
