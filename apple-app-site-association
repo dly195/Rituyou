@@ -4,7 +4,7 @@
         "details": [
            {
                "appID":"9XWK9UXH3K.jp.co.sej.test1",
-               "paths":[ "/category/*" ]
+               "paths":[ "/emengagement/*" ]
            }
          ]
     }
